@@ -69,7 +69,7 @@ class Console:
             "\033[36m" + "Channel: " + "\033[34m" + "https://t.me/JamBitPY" + "\033[34m"
         )
         print(
-            "\033[36m" + "Channel: " + "\033[34m" + "https://t.me/mrxcrypto" + "\033[34m"
+            "\033[36m" + "Channel: " + "\033[34m" + "https://t.me/mrxcrypto_dev" + "\033[34m"
         )
         print(
             "\033[36m"

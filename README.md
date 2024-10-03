@@ -9,7 +9,7 @@
 
 🔔 CHANNEL: https://t.me/JamBitPY
 
-🔔 CHANNEL: https://t.me/mrxcrypto
+🔔 CHANNEL: https://t.me/mrxcrypto_dev
 
 💬 CHAT: https://t.me/JamBitChat
 
