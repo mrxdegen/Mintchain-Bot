@@ -219,7 +219,7 @@ class MintChainAPI(Wallet):
                 status, tx_hash, amount = await self.get_forest_proof_and_send_transaction('Signin')
                 if status:
                     logger.success(
-                        f"Account: {self.account.auth_token} | Claimed signin double daily reward | Amount: {amount} | Transaction: {tx_hash}"
+                        f"Account: {self.account.auth_token} | Claimed signin double daily reward | Amount: {amount} | Transaction: https://explorer.mintchain.io/tx/{tx_hash}"
                     )
             else:
                 logger.error(

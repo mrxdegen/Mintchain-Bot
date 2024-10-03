@@ -112,7 +112,7 @@ class Bot(MintChainAPI):
 
                     if status:
                         logger.success(
-                            f"Account: {self.account.auth_token} | Opened turntable | Reward: {amount} | Transaction: {tx_hash}"
+                            f"Account: {self.account.auth_token} | Opened turntable | Reward: {amount} | Transaction: https://explorer.mintchain.io/tx/{tx_hash}"
                         )
                         await asyncio.sleep(3)
 
