@@ -59,7 +59,7 @@
 
 ``3. Setup configuration and accounts``
 
-``4. Run: python run.py``
+``4. Run: python main.py``
 
 
 ## ⚙️ Config (config > settings.yaml)
